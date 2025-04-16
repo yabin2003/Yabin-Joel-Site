@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://yabin2003.github.io/Yabin-Joel-Site/sitemap.xml
